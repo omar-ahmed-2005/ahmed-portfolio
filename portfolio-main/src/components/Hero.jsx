@@ -55,13 +55,13 @@ const Hero = () => (
           Explore My Projects <ArrowRight size={18} />
         </a>
 
-        <a
-          href="/cv/Ahmed-Mahmoud-CV.pdf"
-          download="Ahmed-Mahmoud-CV.pdf"
-          className="secondary-button"
-        >
-          Download CV <Download size={18} />
-        </a>
+<a
+  href="/cv/Ahmed_Abdelhady_CV.pdf"
+  download="Ahmed_Abdelhady_CV.pdf"
+  className="secondary-button"
+>
+  Download CV <Download size={18} />
+</a>
       </motion.div>
 
       <motion.div
